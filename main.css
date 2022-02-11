@@ -28,3 +28,12 @@
     height:600px;
 
 }
+img{
+    float: left;
+}
+
+.right, .middle, .left{
+    border: solid 1px rgb(153, 38, 38);
+    margin-top: 1em;
+}
+
