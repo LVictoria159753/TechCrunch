@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+
+}
+
+ footer{
+    height: 150px;
+    border: solid 1px black;
+    clear:both;
+}
+
+.sec1 {
+    float: left;
+    border: solid 1px black;
+    width: 20%;
+    height:600px;
+}
+.sec2{
+  float: left;
+    border: solid 1px black;
+    width: 30%;
+    height:600px;
+}
+.main{
+    float: left;
+    border: solid 1px black;
+    width: 50%;
+    height:600px;
+
+}
