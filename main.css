@@ -45,11 +45,13 @@ img{
     height:200px;
     padding:10px;
     margin: 0 26px;
+    font-size: 20px;
 }
 
 .c{
     margin: 0 26px;
     float:left;
+    font-size: 20px;
 }
 
 ul{
