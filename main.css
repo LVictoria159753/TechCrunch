@@ -4,7 +4,7 @@
 }
 
  footer{
-    height: 160px;
+    height: 200px;
     border: solid 1px black;
     clear:both;
 }
@@ -32,13 +32,35 @@ img{
     float: left;
 }
 
+.empty{
+    float:left;
+    width: 20%;
+    height:150px;
+
+}
 .a, .b{
     float: left;
     border: solid 1px black;
-    width: 33%;
-    height:150px;
+    width: 25%;
+    height:200px;
+    padding:10px;
+    margin: 0 26px;
 }
 
 .c{
-    
+    margin: 0 26px;
+    float:left;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 1.5em;
+
+}
+
+img::after{
+    content: "\a ";
+    white-space: pre;
+
 }
