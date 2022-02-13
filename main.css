@@ -3,6 +3,7 @@
 
 }
 
+/* setting up boxes */
  footer{
     height: 200px;
     border: solid 1px black;
@@ -28,10 +29,8 @@
     height:600px;
 
 }
-img{
-    float: left;
-}
 
+/*Bottom footer alignment*/
 .empty{
     float:left;
     width: 20%;
@@ -54,15 +53,11 @@ img{
     font-size: 20px;
 }
 
+
+/* Dealing with the nav screen on upper lefthand */
 ul{
     list-style-type: none;
     font-size: 20px;
     line-height: 1.5em;
-
-}
-
-img::after{
-    content: "\a ";
-    white-space: pre;
 
 }
